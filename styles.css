@@ -1,0 +1,27 @@
+html {
+  height: 100%
+}
+body {
+  min-height: 100%;
+  background-color: #1d1d1d;
+  padding-right: 20px;
+  border: 5px solid #002FA7;
+  line-height: 95%;
+}
+
+.ego {
+  text-align: right;
+  color: #F2F2F2;
+  font-family: 'Titillium Web', sans-serif;
+  font-weight: 600;
+  font-size: 5em;
+  padding: 120px 0px 0px 0px;
+}
+
+.takenote {
+  text-align: right;
+  Color: #F2F2F2;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 3em;
+  font-weight: 400;
+}
