@@ -1,20 +1,20 @@
-html {
-  height: 100%
-}
 body {
   background-color: #8CBED6;
 }
 
 #above {
   text-align: left;
-  font-size: 4rem;
   padding-left: 40px;
   padding-top: 25px;
   color: #ffe8e8;
   font-family: 'expo-sans-pro-condensed', sans-serif;
-  font-weight: 400;
 }
-
+/*
+#above .cats #takenote {
+  font-weight: 400;
+  font-size: 3rem;
+}
+*/
 #cutoff {
   padding-top: 75px;
 }
@@ -35,9 +35,5 @@ body {
 
 #below #ego {
   font-weight: 700;
-  font-size: 6rem;
-}
-
-#below #ego .text-muted {
-  color: #d6a58c;
+  font-size: 3.5rem;
 }
