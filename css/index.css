@@ -26,7 +26,6 @@ body {
 
 #below {
   font-family: 'expo-sans-pro-condensed', sans-serif;
-  font-size: 6rem;
   text-align: left;
   padding-left: 40px;
   padding-top: 75px;
@@ -36,6 +35,7 @@ body {
 
 #below #ego {
   font-weight: 700;
+  font-size: 6rem;
 }
 
 #below #ego .text-muted {
