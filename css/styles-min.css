@@ -3,23 +3,30 @@ html {
 
 body {
   position: relative;
-  min-height: 95vh;
-  background-color: #FFFAF0;
-  border: 12px solid #10191a;
-  margin: 20px; }
+  min-height: 97vh;
+  background-color: #8CBED6;
+  /*border: 9px solid #10191a;
+  margin: 12px;*/ }
 
 #martian-lander {
   position: relative;
   -ms-flex-line-pack: center;
-      align-content: center; }
+      align-content: center;
+  line-height: .75 important; }
 
 #cutoff {
   padding-top: 220px; }
 
+#cloud {
+  -webkit-transform: translateY(400%);
+          transform: translateY(400%);
+  border: 14px solid #FEFEFA; }
+
 .ego {
   text-align: center;
+  /*color: #10191a;*/
   color: #10191a;
-  font-family: 'boucherie-flared', sans-serif;
+  font-family: 'Helvetica-Nueue', sans-serif;
   font-weight: 600;
   font-size: 4.5rem;
   /*padding-top: 245px;*/ }
@@ -30,5 +37,5 @@ body {
   Color: #10191a;
   font-family: 'Gitan-Latin', sans-serif;
   font-size: 3.25rem;
-  font-weight: 400;
-  padding-top: 120px; }
+  font-weight: 600;
+  padding-top: 100px; }
