@@ -1,9 +1,9 @@
 {
-  "name": "my-new-project",
+  "name": "Zaji Works",
   "authors": [
-    "John Doe <john@doe.com> (http://johndoe.com)"
+    "Zaji Zabalerio <zajizabalerio@gmail.com> (http://zaji.co)"
   ],
-  "description": "CodeKit automatically generated this file. You should customize it according to: https://github.com/bower/spec/blob/master/json.md",
+  "description": "These are the collected works of Zaji Zabalerio. And their code (mostly).",
   "main": [
     "index.html",
     "main.js"
