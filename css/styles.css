@@ -2,7 +2,6 @@ html {
   height: 100%
 }
 body {
-  position: relative;
   min-height: 97vh;
   background-color: #8CBED6;
   /*border: 9px solid #10191a;
@@ -10,7 +9,6 @@ body {
 }
 
 #martian-lander {
-  position: relative;
   align-content: center;
   padding-top: 25px;
 }
@@ -36,7 +34,6 @@ body {
 }
 
 #bio .takenote {
-  position: relative;
   text-align: center;
   Color: #ffe8e8;
   font-family: 'Gitan-Latin', sans-serif;
