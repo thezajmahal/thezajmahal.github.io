@@ -18,8 +18,8 @@ body {
   padding-top: 220px; }
 
 #cloud {
-  -webkit-transform: translateY(400%);
-          transform: translateY(400%);
+  -webkit-transform: translateY(-150%);
+          transform: translateY(-150%);
   border: 14px solid #FEFEFA; }
 
 .ego {

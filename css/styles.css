@@ -20,7 +20,7 @@ body {
 }
 
 #cloud {
-  transform: translateY(333%);
+  transform: translateY(-150%);
   border: 14px solid #FEFEFA;
 }
 
