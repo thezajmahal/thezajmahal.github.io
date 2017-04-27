@@ -1,13 +1,16 @@
 body {
-  background-color: #F4A460;
-  /*#8CBED6*/ }
+  background-color: #8CBED6;
+  /*#F4A460*/ }
 
 #above {
   text-align: center;
   /*padding-left: 40px;*/
   padding-top: 25px;
-  color: #ffe8e8;
-  font-family: 'expo-sans-pro-condensed', sans-serif; }
+  color: #ffe8e8; }
+
+#cats {
+  font-family: "Helvetica Nueue", sans-serif;
+  font-style: italic; }
 
 /*
 #above .cats #takenote {
@@ -24,7 +27,6 @@ body {
   border: 8px dotted #FEFEFA; }
 
 #below {
-  font-family: 'expo-sans-pro-condensed', sans-serif;
   text-align: center;
   /*padding-left: 40px;*/
   padding-top: 100px;
@@ -33,4 +35,5 @@ body {
 
 #below #ego {
   font-weight: 700;
+  font-family: "marco", serif;
   font-size: 3.25rem; }
