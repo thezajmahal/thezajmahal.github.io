@@ -2,7 +2,6 @@ html {
   height: 100%; }
 
 body {
-  min-height: 97vh;
   background-color: #8CBED6; }
 
 #above {
@@ -31,7 +30,7 @@ body {
   padding-bottom: 25px;
   Color: #ffe8e8; }
 
-#below .ego {
+#below #ego {
   font-weight: 700; }
 
 #below #ego .text-muted {
