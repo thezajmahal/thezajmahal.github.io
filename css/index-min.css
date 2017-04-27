@@ -2,7 +2,7 @@ body {
   background-color: #8CBED6; }
 
 #above {
-  text-align: left;
+  text-align: center;
   padding-left: 40px;
   padding-top: 25px;
   color: #ffe8e8;
@@ -24,7 +24,7 @@ body {
 
 #below {
   font-family: 'expo-sans-pro-condensed', sans-serif;
-  text-align: left;
+  text-align: center;
   padding-left: 40px;
   padding-top: 75px;
   padding-bottom: 25px;
@@ -32,4 +32,4 @@ body {
 
 #below #ego {
   font-weight: 700;
-  font-size: 3.5rem; }
+  font-size: 3rem; }
