@@ -12,8 +12,7 @@ body {
   padding-left: 40px;
   padding-top: 25px;
   color: #ffe8e8;
-  font-family: 'Gitan-Latin', sans-serif;
-  font-size: 7rem; }
+  font-family: 'Gitan-Latin', sans-serif; }
 
 #cutoff {
   padding-top: 75px; }
@@ -24,23 +23,16 @@ body {
           transform: translateY(250%);
   border: 8px dotted #FEFEFA; }
 
-.ego h1 {
+#below {
+  font-family: 'Gitan-Latin', sans-serif;
+  text-align: left;
+  padding-left: 40px;
+  padding-top: 75px;
+  padding-bottom: 25px;
+  Color: #ffe8e8; }
+
+#below .ego h1 {
   font-weight: 700; }
 
-.ego h3 {
-  font-weight: 600;
-  -webkit-transform: translateY(250px);
-          transform: translateY(250px); }
-
-#below {
-  text-align: left;
-  padding-top: 75px;
-  padding-bottom: 25px; }
-
-#below .takenote {
-  padding-left: 40px;
-  text-align: left;
-  Color: #ffe8e8;
-  font-family: 'Gitan-Latin', sans-serif;
-  font-size: 2.5rem;
-  font-weight: 400; }
+#below .ego h2 {
+  font-weight: 600; }
