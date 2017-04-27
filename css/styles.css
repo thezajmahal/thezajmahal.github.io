@@ -38,9 +38,11 @@ body {
 
 #below .ego h1 {
   font-weight: 700;
+  font-size: 3rem;
 }
 
-#below .ego h2 {
+#below .ego h3 {
   font-weight: 600;
   font-style: italic;
+  font-size: 2rem;
 }
