@@ -1,10 +1,9 @@
 html {
-  height: 100%
-}
+  height: 100%; }
+
 body {
   min-height: 97vh;
-  background-color: #8CBED6;
-}
+  background-color: #8CBED6; }
 
 #above {
   text-align: left;
@@ -12,17 +11,15 @@ body {
   padding-top: 25px;
   color: #ffe8e8;
   font-family: 'expo-sans-pro-condensed', sans-serif;
-  font-weight: 400;
-}
+  font-weight: 400; }
 
 #cutoff {
-  padding-top: 75px;
-}
+  padding-top: 75px; }
 
 #cloud {
-  transform: translateY(250%);
-  border: 8px dotted #FEFEFA;
-}
+  -webkit-transform: translateY(250%);
+          transform: translateY(250%);
+  border: 8px dotted #FEFEFA; }
 
 #below {
   font-family: 'expo-sans-pro-condensed', sans-serif;
@@ -30,14 +27,11 @@ body {
   padding-left: 40px;
   padding-top: 75px;
   padding-bottom: 25px;
-  Color: #ffe8e8;
-}
+  Color: #ffe8e8; }
 
-#below .ego h1 {
+#below .ego #below-name {
   font-weight: 700;
-  font-size: 5rem;
-}
+  font-size: 6rem; }
 
 .text-muted {
-  color: #d6a58c;
-}
+  color: #d6a58c; }

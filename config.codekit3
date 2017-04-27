@@ -4448,23 +4448,23 @@
 		"oF": 0,
 		"oS": 0
 		},
-	"\/css\/styles-min.css": {
+	"\/css\/index-min.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/css\/styles-min-min.css",
+		"oAP": "\/css\/index-min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
-	"\/css\/styles.css": {
+	"\/css\/index.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/css\/styles-min.css",
+		"oAP": "\/css\/index-min.css",
 		"oF": 0,
 		"oS": 0
 		},
