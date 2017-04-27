@@ -4,8 +4,6 @@ html {
 body {
   min-height: 97vh;
   background-color: #8CBED6;
-  /*border: 9px solid #10191a;
-  margin: 12px;*/
 }
 
 #above {
@@ -22,7 +20,6 @@ body {
 }
 
 #cloud {
-  /*transform: translateY(-175%);*/
   transform: translateY(250%);
   border: 8px dotted #FEFEFA;
 }
@@ -38,11 +35,9 @@ body {
 
 #below .ego h1 {
   font-weight: 700;
-  font-size: 3rem;
+  font-size: 5rem;
 }
 
-#below .ego h3 {
-  font-weight: 600;
-  font-style: italic;
-  font-size: 2rem;
+.text-muted {
+  color: #d6a58c;
 }

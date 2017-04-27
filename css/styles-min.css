@@ -3,9 +3,7 @@ html {
 
 body {
   min-height: 97vh;
-  background-color: #8CBED6;
-  /*border: 9px solid #10191a;
-  margin: 12px;*/ }
+  background-color: #8CBED6; }
 
 #above {
   text-align: left;
@@ -19,7 +17,6 @@ body {
   padding-top: 75px; }
 
 #cloud {
-  /*transform: translateY(-175%);*/
   -webkit-transform: translateY(250%);
           transform: translateY(250%);
   border: 8px dotted #FEFEFA; }
@@ -34,9 +31,7 @@ body {
 
 #below .ego h1 {
   font-weight: 700;
-  font-size: 3rem; }
+  font-size: 5rem; }
 
-#below .ego h3 {
-  font-weight: 600;
-  font-style: italic;
-  font-size: 2rem; }
+.text-muted {
+  color: #d6a58c; }
