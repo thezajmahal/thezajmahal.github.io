@@ -2,10 +2,20 @@ html {
   height: 100%
 }
 body {
+  position: relative;
   min-height: 95vh;
-  background-color: #000000;
+  background-color: #FFFAF0;
   border: 12px solid #10191a;
   margin: 20px;
+}
+
+#martian-lander {
+  position: relative;
+  align-content: center;
+}
+
+#cutoff {
+  padding-top: 220px;
 }
 
 .ego {
@@ -14,13 +24,15 @@ body {
   font-family: 'boucherie-flared', sans-serif;
   font-weight: 600;
   font-size: 4.5rem;
-  padding-top: 225px;
+  /*padding-top: 245px;*/
 }
 
-.takenote {
+#bio .takenote {
+  position: relative;
   text-align: center;
   Color: #10191a;
-  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Gitan-Latin', sans-serif;
   font-size: 3.25rem;
-  font-weight: 600;
+  font-weight: 400;
+  padding-top: 120px;
 }
