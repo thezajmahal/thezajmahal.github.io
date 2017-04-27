@@ -8,9 +8,13 @@ body {
   margin: 12px;*/
 }
 
-#martian-lander {
-  align-content: center;
+#above {
+  text-align: left;
+  padding-left: 40px;
   padding-top: 25px;
+  color: #ffe8e8;
+  font-family: 'Gitan-Latin', sans-serif;
+  font-size: 7rem;
 }
 
 #cutoff {
@@ -23,22 +27,26 @@ body {
   border: 8px dotted #FEFEFA;
 }
 
-.ego {
-  text-align: center;
-  /*color: #10191a;*/
-  color: #ffe8e8;
-  font-family: 'Gitan-Latin', sans-serif;
-  font-weight: 400;
-  font-size: 4rem;
-  /*padding-top: 245px;*/
+.ego h1 {
+  font-weight: 700
 }
 
-#bio .takenote {
-  text-align: center;
+.ego h3 {
+  font-weight: 600;
+  transform: translateY(250px);
+}
+
+#below {
+  text-align: left;
+  padding-top: 75px;
+  padding-bottom: 25px;
+}
+
+#below .takenote {
+  padding-left: 40px;
+  text-align: left;
   Color: #ffe8e8;
   font-family: 'Gitan-Latin', sans-serif;
   font-size: 2.5rem;
-  font-weight: 600;
-  padding-top: 75px;
-  padding-bottom: 25px;
+  font-weight: 400;
 }
