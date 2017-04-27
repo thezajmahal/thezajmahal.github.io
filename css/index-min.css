@@ -3,7 +3,7 @@ body {
 
 #above {
   text-align: center;
-  padding-left: 40px;
+  /*padding-left: 40px;*/
   padding-top: 25px;
   color: #ffe8e8;
   font-family: 'expo-sans-pro-condensed', sans-serif; }
@@ -25,7 +25,7 @@ body {
 #below {
   font-family: 'expo-sans-pro-condensed', sans-serif;
   text-align: center;
-  padding-left: 40px;
+  /*padding-left: 40px;*/
   padding-top: 75px;
   padding-bottom: 25px;
   Color: #ffe8e8; }
