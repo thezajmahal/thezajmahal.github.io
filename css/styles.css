@@ -13,7 +13,8 @@ body {
   padding-left: 40px;
   padding-top: 25px;
   color: #ffe8e8;
-  font-family: 'Gitan-Latin', sans-serif;
+  font-family: 'expo-sans-pro-condensed', sans-serif;
+  font-weight: 400;
 }
 
 #cutoff {
@@ -27,7 +28,7 @@ body {
 }
 
 #below {
-  font-family: 'Gitan-Latin', sans-serif;
+  font-family: 'expo-sans-pro-condensed', sans-serif;
   text-align: left;
   padding-left: 40px;
   padding-top: 75px;
@@ -41,4 +42,5 @@ body {
 
 #below .ego h2 {
   font-weight: 600;
+  font-style: italic;
 }
