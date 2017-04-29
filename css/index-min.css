@@ -1,39 +1,75 @@
 body {
-  background-color: #232B2B;
-  /*#F4A460*/ }
+  background-color: #000616;
+  max-width: 576px;
+  margin: auto;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 10px;
+  padding-bottom: 150px; }
 
-#above {
-  text-align: center;
-  /*padding-left: 40px;*/
-  padding-top: 25px;
-  color: #ffe8e8; }
+.wrap #lander {
+  min-height: 24rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin: auto; }
 
-#mon-nom {
-  font-family: "Helvetica Nueue", sans-serif;
-  font-style: italic; }
+.section {
+  display: block;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin: auto;
+  width: 100%;
+  color: #FEFEFA; }
 
-/*
-#above .cats #takenote {
-  font-weight: 400;
-  font-size: 3rem;
-}
-*/
-#cutoff {
-  padding-top: 75px; }
+#header {
+  margin: auto;
+  width: 50%;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  padding-top: 20px;
+  padding-bottom: 20px; }
 
-#cloud {
-  -webkit-transform: translateY(250%);
-          transform: translateY(250%);
-  border: 8px dotted #FEFEFA; }
+#cats h1 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  min-width: 100%;
+  color: #FEFEFA;
+  line-height: 5rem;
+  font-family: 'niveau-grotesk', sans-serif;
+  font-weight: 300; }
 
-#below {
-  text-align: center;
-  /*padding-left: 40px;*/
-  padding-top: 100px;
-  padding-bottom: 25px;
-  Color: #ffe8e8; }
+.inactive-nav {
+  opacity: .5; }
 
-#below #ego {
-  font-weight: 700;
-  font-family: "marco", serif;
-  font-size: 3.25rem; }
+#about {
+  max-width: 100%; }
+
+.about-image {
+  max-width: 100%;
+  padding-top: 20px;
+  padding-bottom: 35px; }
+
+.about-text {
+  text-align: justify;
+  font-family: 'niveau-grotesk', sans-serif;
+  font-weight: 200; }
