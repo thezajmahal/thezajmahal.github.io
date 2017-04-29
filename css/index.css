@@ -46,7 +46,7 @@ body {
 }
 
 .inactive-nav {
-  opacity: .5;
+  opacity: .25;
 }
 
 #about {
