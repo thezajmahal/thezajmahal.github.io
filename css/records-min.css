@@ -5,9 +5,9 @@ body {
   padding-left: 40px;
   padding-right: 40px;
   padding-top: 10px;
-  padding-bottom: 125px; }
+  padding-bottom: 0px; }
 
-.wrap #lander {
+.wrap #records-page {
   min-height: 24rem;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -19,6 +19,9 @@ body {
       -ms-flex-pack: center;
           justify-content: center;
   margin: auto; }
+
+#cats {
+  padding-bottom: 20px; }
 
 .section {
   display: block;
@@ -59,3 +62,18 @@ body {
   font-weight: 300;
   text-decoration: none;
   font-size: 2.25rem; }
+
+.videoWrapper {
+  position: relative;
+  margin-bottom: 40px;
+  padding-bottom: 56.25%;
+  /* 16:9 */
+  padding-top: 25px;
+  height: 0; }
+
+.videoWrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%; }
