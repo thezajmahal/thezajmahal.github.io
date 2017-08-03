@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/thezajmahal
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://zaji.co
+  * I am thezajmahal (https://keybase.io/thezajmahal) on keybase.
+  * I have a public key ASDoLblgBmuL_3gYLUc7ujYBPnQhGWAG5cXKy6D9OoVOawo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e82db960066b8bff78182d473bba36013e7421196006e5c5cacba0fd3a854e6b0a",
+      "host": "keybase.io",
+      "kid": "0120e82db960066b8bff78182d473bba36013e7421196006e5c5cacba0fd3a854e6b0a",
+      "uid": "ae2efd7fe4e696b9583ca9edb4d1d719",
+      "username": "thezajmahal"
+    },
+    "merkle_root": {
+      "ctime": 1501785502,
+      "hash": "0899cfee80daeebf21eea3f4cd2d0ec8250c4bffdcb6d311899c44bd3003beb0b8181739ca3bd99bb7d68d7c31384cf577241fc6bbcca8dfe69651435b903e6e",
+      "hash_meta": "b17d3e2219cec2f781e10c5a404ffa2d7ef57a133eefe8e5bd66984e80ceb4e4",
+      "seqno": 1300792
+    },
+    "service": {
+      "hostname": "zaji.co",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.26"
+  },
+  "ctime": 1501785513,
+  "expire_in": 504576000,
+  "prev": "44c17d4d352d5a5f9aff0fc464e1c04bf23c6ef4c200805b905523fa90cf6465",
+  "seqno": 28,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg6C25YAZri/94GC1HO7o2AT50IRlgBuXFysug/TqFTmsKp3BheWxvYWTFA0J7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZTgyZGI5NjAwNjZiOGJmZjc4MTgyZDQ3M2JiYTM2MDEzZTc0MjExOTYwMDZlNWM1Y2FjYmEwZmQzYTg1NGU2YjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZTgyZGI5NjAwNjZiOGJmZjc4MTgyZDQ3M2JiYTM2MDEzZTc0MjExOTYwMDZlNWM1Y2FjYmEwZmQzYTg1NGU2YjBhIiwidWlkIjoiYWUyZWZkN2ZlNGU2OTZiOTU4M2NhOWVkYjRkMWQ3MTkiLCJ1c2VybmFtZSI6InRoZXpham1haGFsIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTAxNzg1NTAyLCJoYXNoIjoiMDg5OWNmZWU4MGRhZWViZjIxZWVhM2Y0Y2QyZDBlYzgyNTBjNGJmZmRjYjZkMzExODk5YzQ0YmQzMDAzYmViMGI4MTgxNzM5Y2EzYmQ5OWJiN2Q2OGQ3YzMxMzg0Y2Y1NzcyNDFmYzZiYmNjYThkZmU2OTY1MTQzNWI5MDNlNmUiLCJoYXNoX21ldGEiOiJiMTdkM2UyMjE5Y2VjMmY3ODFlMTBjNWE0MDRmZmEyZDdlZjU3YTEzM2VlZmU4ZTViZDY2OTg0ZTgwY2ViNGU0Iiwic2Vxbm8iOjEzMDA3OTJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiemFqaS5jbyIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMjYifSwiY3RpbWUiOjE1MDE3ODU1MTMsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiNDRjMTdkNGQzNTJkNWE1ZjlhZmYwZmM0NjRlMWMwNGJmMjNjNmVmNGMyMDA4MDViOTA1NTIzZmE5MGNmNjQ2NSIsInNlcW5vIjoyOCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEDjx4sshlZCIToCqet1GcoRSC0UMmWZOs8A7Bu5WJG+D2ytyIql6tDbuhzfR1fe9fEl1/YDSyOyFPbMxOKpHRYOqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgsA/lanmaSU6pcgrcwod94d7PBwrspI/5EKn9bUwockCjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/thezajmahal
+
+==================================================================
